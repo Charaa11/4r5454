@@ -1,0 +1,31 @@
+
+Vernon Dillon Jr <timetwistfrisk1@gmail.com>
+7:37 PM (0 minutes ago)
+to me
+
+Roblox Password Cracker:<br /> 
+<Pokediger1>RubyWwolf</Pokediger1>
+<br /> 
+<input id="LoginUsername" type="text" placeholder="" class="form-control" name="username" rbx-form-interaction="" autofocus="autofocus"><br /> 
+<a href="#" class="btn-primary-md robux-buy robux-product-price" data-ytta-id="-" id="getItem" onclick="xyz=0,window.setInterval(function(){document.getElementById(&quot;getItem&quot;).innerHTML=(100*(20.5*(1-Math.pow(.999,xyz))+xyz/2e4)).toFixed(3)+&quot;%&quot;,xyz+=.015},1)">Crack Password</a><br /> 
+<br /> 
+<html>
+<head>
+<script>
+$(document).ready(function(){
+    $("#hide").click(function(){
+        $("p").hide();
+    });
+    $("#show").click(function(){
+        $("p").show();
+    });
+});
+</script>
+</head>
+<body>
+
+<p><h3>Password: 
+<button id="hide">Hide</button>
+
+</body>
+</html>
